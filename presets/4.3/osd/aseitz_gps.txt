@@ -1,0 +1,27 @@
+#$ TITLE: Aseitz GPS OSD settings
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OSD
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: defaults, reset, OSD
+#$ AUTHOR: Betaflight
+#$ DESCRIPTION: Resets the OSD values back to Betaflight 4.3 defaults
+
+set osd_units = METRIC
+set osd_vbat_pos = 2369
+set osd_rssi_pos = 2209
+set osd_link_quality_pos = 165
+set osd_rssi_dbm_pos = 193
+set osd_tim_2_pos = 2387
+set osd_flymode_pos = 2177
+set osd_current_pos = 331
+set osd_mah_drawn_pos = 362
+set osd_craft_name_pos = 391
+set osd_gps_speed_pos = 2165
+set osd_gps_lon_pos = 33
+set osd_gps_lat_pos = 49
+set osd_gps_sats_pos = 2124
+set osd_home_dir_pos = 2190
+set osd_home_dist_pos = 2197
+set osd_altitude_pos = 2133
+set osd_warnings_pos = 14569
+set osd_avg_cell_voltage_pos = 2401
