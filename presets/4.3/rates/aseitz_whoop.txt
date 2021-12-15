@@ -1,7 +1,7 @@
 #$ TITLE: Alexander Seitz whoop rates
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: RATES
-#$ STATUS: COMMUNITY
+#$ STATUS: OFFICIAL
 #$ KEYWORDS: youtube, bardwell, freestyle
 #$ AUTHOR: Alexander Seitz
 #$ DESCRIPTION: Whoop rates

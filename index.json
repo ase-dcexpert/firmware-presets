@@ -1031,14 +1031,14 @@
     },
     {
       "fullPath": "presets/4.3/rates/aseitz_default.txt",
-      "hash": "d9529d4d92567fe9f880a352cd8f4823307b604655b42cd30e6670f09b300576",
+      "hash": "ee52f4e9f261d7931c2b3f71f2173eec4cc4f1f7b876da313bdd9d91565ab731",
       "options": [],
       "title": "Alexander Seitz default rates",
       "firmware_version": [
         "4.3"
       ],
       "category": "RATES",
-      "status": "COMMUNITY",
+      "status": "OFFICIAL",
       "keywords": [
         "youtube",
         "bardwell",
@@ -1057,14 +1057,14 @@
     },
     {
       "fullPath": "presets/4.3/rates/aseitz_whoop.txt",
-      "hash": "a5ad10b674e9fce2ceb5bc648bfa9016d1d8877fde662a1762b365f50da92b95",
+      "hash": "d6c414e0037be6d94af4b23817f18aa11c49d87cf7eca2261b3e012f736c7e7e",
       "options": [],
       "title": "Alexander Seitz whoop rates",
       "firmware_version": [
         "4.3"
       ],
       "category": "RATES",
-      "status": "COMMUNITY",
+      "status": "OFFICIAL",
       "keywords": [
         "youtube",
         "bardwell",
