@@ -737,7 +737,7 @@
     },
     {
       "fullPath": "presets/4.3/osd/aseitz.txt",
-      "hash": "00deccc1a4bc7e32c43289fb0ad11067ccf693458ad087ea379f8773c83e390b",
+      "hash": "0ebe4f0289a347904a87fc73da93b752a1f271b7c9dd862ab94ecc474c364a50",
       "options": [],
       "title": "Alexander Seitz non-GPS OSD settings",
       "firmware_version": [
@@ -750,14 +750,14 @@
         "reset",
         "OSD"
       ],
-      "author": "Betaflight",
+      "author": "Alexander Seitz",
       "description": [
         "Resets the OSD values back to Betaflight 4.3 defaults"
       ]
     },
     {
       "fullPath": "presets/4.3/osd/aseitz_gps.txt",
-      "hash": "4e64d72c0aa2a1e1914db2240b73e1c9e3466ed363af0829bfcb5709cd67350d",
+      "hash": "5de9654c4d3b770b4d30bf92913b92eb44f0a46cb8b4939108e554617372c18e",
       "options": [],
       "title": "Alexander Seitz GPS OSD settings",
       "firmware_version": [
@@ -770,7 +770,7 @@
         "reset",
         "OSD"
       ],
-      "author": "Betaflight",
+      "author": "Alexander Seitz",
       "description": [
         "Resets the OSD values back to Betaflight 4.3 defaults"
       ]
