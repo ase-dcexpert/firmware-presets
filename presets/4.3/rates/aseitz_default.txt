@@ -1,4 +1,4 @@
-#$ TITLE: Alexander Seitz default rates
+#$ TITLE: Default rates
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: RATES
 #$ STATUS: OFFICIAL

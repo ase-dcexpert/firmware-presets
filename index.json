@@ -712,6 +712,54 @@
       ]
     },
     {
+      "fullPath": "presets/4.3/modes/aseitz.txt",
+      "hash": "2bd59ff3f38ea5cf8e01c84d46587843af2b30be449ea90684b64343a1d8a2b5",
+      "options": [],
+      "title": "Default modes (non GPS)",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "Alexander Seitz",
+      "description": [
+        "Resets modes and adjustment ranges to 4.3 defaults"
+      ]
+    },
+    {
+      "fullPath": "presets/4.3/modes/aseitz_gps.txt",
+      "hash": "1a9857a71c15b1b2fe77353a5e535ea42bff1c225ab12232e7d4dcff61a7e077",
+      "options": [],
+      "title": "Default modes (non GPS)",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "Alexander Seitz",
+      "description": [
+        "Resets modes and adjustment ranges to 4.3 defaults"
+      ]
+    },
+    {
       "fullPath": "presets/4.3/modes/defaults.txt",
       "hash": "16a19e27a46efcd9f86d56f17e8fe82356921399cc0c5502e257e33ef8c321c3",
       "options": [],
@@ -737,9 +785,9 @@
     },
     {
       "fullPath": "presets/4.3/osd/aseitz.txt",
-      "hash": "0ebe4f0289a347904a87fc73da93b752a1f271b7c9dd862ab94ecc474c364a50",
+      "hash": "2d1f1d92ceac489cd673c9d2a58f436645124fef453fb82959290f2af89ebcf4",
       "options": [],
-      "title": "Alexander Seitz non-GPS OSD settings",
+      "title": "OSD settings (non GPS)",
       "firmware_version": [
         "4.3"
       ],
@@ -757,9 +805,9 @@
     },
     {
       "fullPath": "presets/4.3/osd/aseitz_gps.txt",
-      "hash": "5de9654c4d3b770b4d30bf92913b92eb44f0a46cb8b4939108e554617372c18e",
+      "hash": "f005e45107c00c5822fee343b7ac321e659448edf70bff0d7dfdb9158d25c0fb",
       "options": [],
-      "title": "Alexander Seitz GPS OSD settings",
+      "title": "OSD settings (GPS)",
       "firmware_version": [
         "4.3"
       ],
@@ -1031,9 +1079,9 @@
     },
     {
       "fullPath": "presets/4.3/rates/aseitz_default.txt",
-      "hash": "ee52f4e9f261d7931c2b3f71f2173eec4cc4f1f7b876da313bdd9d91565ab731",
+      "hash": "3f25736d10a7057ed707cc3cfcd65024791f843ecac2d69cb6f56b0606d8114a",
       "options": [],
-      "title": "Alexander Seitz default rates",
+      "title": "Default rates",
       "firmware_version": [
         "4.3"
       ],
@@ -1057,9 +1105,9 @@
     },
     {
       "fullPath": "presets/4.3/rates/aseitz_whoop.txt",
-      "hash": "d6c414e0037be6d94af4b23817f18aa11c49d87cf7eca2261b3e012f736c7e7e",
+      "hash": "5514fb47412cb53b13965c81251e537f61c0e0f5d0f75982c99d3f9a47dd5198",
       "options": [],
-      "title": "Alexander Seitz whoop rates",
+      "title": "Whoop rates",
       "firmware_version": [
         "4.3"
       ],

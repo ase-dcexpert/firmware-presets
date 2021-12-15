@@ -1,4 +1,4 @@
-#$ TITLE: Alexander Seitz non-GPS OSD settings
+#$ TITLE: OSD settings (non GPS)
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: OSD
 #$ STATUS: OFFICIAL
