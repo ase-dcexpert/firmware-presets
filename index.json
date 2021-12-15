@@ -117,6 +117,7 @@
     "author": [
       "Alex Campbell (Chief)",
       "Alex Vanover",
+      "Alexander Seitz",
       "Betaflight",
       "Directory",
       "Evan Turner (Headsup)",
@@ -736,9 +737,9 @@
     },
     {
       "fullPath": "presets/4.3/osd/aseitz.txt",
-      "hash": "007c9d614218a0d3cdecd379c78f27cfb9c6c2822b9f46c8210964d40a3242e8",
+      "hash": "00deccc1a4bc7e32c43289fb0ad11067ccf693458ad087ea379f8773c83e390b",
       "options": [],
-      "title": "Aseitz NON-GPS OSD settings",
+      "title": "Alexander Seitz non-GPS OSD settings",
       "firmware_version": [
         "4.3"
       ],
@@ -756,9 +757,9 @@
     },
     {
       "fullPath": "presets/4.3/osd/aseitz_gps.txt",
-      "hash": "79b839318718cb33f71a289bf582fdb5e637bb6770676369003d7494551a067e",
+      "hash": "4e64d72c0aa2a1e1914db2240b73e1c9e3466ed363af0829bfcb5709cd67350d",
       "options": [],
-      "title": "Aseitz GPS OSD settings",
+      "title": "Alexander Seitz GPS OSD settings",
       "firmware_version": [
         "4.3"
       ],
@@ -1026,6 +1027,58 @@
       "author": "Betaflight",
       "description": [
         "Resets the saved flight stats values back to zero"
+      ]
+    },
+    {
+      "fullPath": "presets/4.3/rates/aseitz_default.txt",
+      "hash": "d9529d4d92567fe9f880a352cd8f4823307b604655b42cd30e6670f09b300576",
+      "options": [],
+      "title": "Alexander Seitz default rates",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "youtube",
+        "bardwell",
+        "freestyle"
+      ],
+      "author": "Alexander Seitz",
+      "description": [
+        "Default rates",
+        "I am Joshua Bardwell and you gonna learn something today!",
+        "Joshua Bardwell - one of the most famous YouTubers in FPV. From thorough gear reviews, to tons of videos about drone building and tuning, his videos have helped get many pilots into the air. People love him for his ability to give simple explanations for difficult and technical issues in FPV."
+      ],
+      "discussion": "https://github.com/betaflight/firmware-presets/pull/94",
+      "include": [
+        "presets/4.3/rates/defaults.txt"
+      ]
+    },
+    {
+      "fullPath": "presets/4.3/rates/aseitz_whoop.txt",
+      "hash": "a5ad10b674e9fce2ceb5bc648bfa9016d1d8877fde662a1762b365f50da92b95",
+      "options": [],
+      "title": "Alexander Seitz whoop rates",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "youtube",
+        "bardwell",
+        "freestyle"
+      ],
+      "author": "Alexander Seitz",
+      "description": [
+        "Whoop rates",
+        "I am Joshua Bardwell and you gonna learn something today!",
+        "Joshua Bardwell - one of the most famous YouTubers in FPV. From thorough gear reviews, to tons of videos about drone building and tuning, his videos have helped get many pilots into the air. People love him for his ability to give simple explanations for difficult and technical issues in FPV."
+      ],
+      "discussion": "https://github.com/betaflight/firmware-presets/pull/94",
+      "include": [
+        "presets/4.3/rates/defaults.txt"
       ]
     },
     {
