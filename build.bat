@@ -1,0 +1,1 @@
+node indexer/check.js
